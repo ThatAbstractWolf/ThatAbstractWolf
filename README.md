@@ -1,5 +1,5 @@
 <p align="left" style="margin: 25px 0;">
- <h2 align="left">Jake Brown</h2>
+ <h1 align="left">AbstractlyWolfy (Jake Brown)</h2>
  <p>A versatile and driven Fullstack Software Engineer with 8 years of industry experience and with skills including communication and managing teams, developing and maintaining enterprise level solutions, solving complex tasks and especially exceeding at:</p>
  <ul>
   <li>Data structures and algorithms</li>
