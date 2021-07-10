@@ -1,5 +1,5 @@
 <p align="center" style="margin: 25px 0;">
- <h2 align="center">ThatAbstractWolf's Stats</h2>
+ <h2 align="center">AbstractlyWolfy's Stats</h2>
 </p>
 
 <p align="center" style="margin: 25px 0;">
